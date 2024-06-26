@@ -16,6 +16,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
+### Run Backend - for jobs data, spotlight data, degree data 
+
+```sh
+npm run backend
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
